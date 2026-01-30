@@ -8,7 +8,9 @@ Web developer working with structure, intention, and time.
 Based in Hamburg.
 
 [Website](https://utkucikmaz.com) &nbsp;&nbsp; · &nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/utkucikmaz)
+[LinkedIn](https://www.linkedin.com/in/utkucikmaz) &nbsp;&nbsp; · &nbsp;&nbsp;
+[Email](mailto:utkucikmaz@gmail.com)
+
 
 </div>
 
