@@ -41,16 +41,13 @@ I don’t collect technologies.
 I use them deliberately.
 
 **Frontend**
-- Vue.js, React, TypeScript, Javascript  
-- Tailwind CSS, modern CSS
+- Vue.js, React, TypeScript, Javascript
 
 **Backend**
-- Node.js, Express  
-- Python, Django REST Framework
+- Node.js, Express, Python, Django REST Framework
 
 **Data**
-- PostgreSQL  
-- MongoDB
+- PostgreSQL, MongoDB
 
 Tools change. Principles remain.
 
