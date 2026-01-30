@@ -2,7 +2,8 @@
 
 # Utku Cikmaz
 
-Web developer working with structure, intention, and time.  
+Web developer working with structure, intention, and time.
+
 Based in Hamburg.
 
 [utkucikmaz.com](https://utkucikmaz.com) ·
@@ -37,9 +38,6 @@ I try to design and implement with these ideas in mind.
 
 ## Tools & practice
 
-I don’t collect technologies.  
-I use them deliberately.
-
 **Frontend**
 - Vue.js, React, TypeScript, Javascript
 
@@ -62,4 +60,4 @@ If you value thoughtful work and long-term coherence, I’m open to conversation
 
 ---
 
-> I try to leave systems quieter than I found them.
+>   I try to leave systems quieter than I found them.
