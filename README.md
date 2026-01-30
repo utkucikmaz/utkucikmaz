@@ -56,24 +56,6 @@ Tools change. Principles remain.
 
 ---
 
-## Selected work
-
-A small set of projects that reflect how I think, not just what I can use.
-
-### PlantIQ
-A plant care dashboard that translates real-world data into quiet, actionable signals.  
-*React · Node.js · MongoDB*  
-https://github.com/Drunk-Aunties/PlantIQ
-
----
-
-### Hotel Middle Earth
-A themed booking interface exploring narrative, layout, and restraint.  
-*React · Tailwind CSS*  
-https://github.com/utkucikmaz/Hotel-Middle-Earth
-
----
-
 ## Contact
 
 If you value thoughtful work and long-term coherence, I’m open to conversation.
