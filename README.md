@@ -7,7 +7,7 @@ Web developer working with structure, intention, and time.
 
 Based in Hamburg.
 
-[utkucikmaz.com](https://utkucikmaz.com) ·
+[Website](https://utkucikmaz.com) &nbsp;&nbsp; · &nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/utkucikmaz)
 
 </div>
@@ -39,29 +39,16 @@ I try to design and implement with these ideas in mind.
 
 ## Tools & practice
 
-**Frontend**
-- Vue.js, React, TypeScript, Javascript
+**Interfaces**
+- Vue.js, React, TypeScript, JavaScript
 
-**Backend**
+**Systems**
 - Node.js, Express, Python, Django REST Framework
 
-**Data**
+**Persistence**
 - PostgreSQL, MongoDB
 
 Tools change. Principles remain.
-
----
-
-## Contact
-
-If you value thoughtful work and long-term coherence, I’m open to conversation.
-
-- <img src="https://www.utkucikmaz.com/images/tree.png" alt="Logo" width="20" height="20" style="vertical-align: middle;">&nbsp;&nbsp;
-  https://utkucikmaz.com
-
-- <img src="https://www.utkucikmaz.com/svg/linkedin-icon.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">&nbsp;&nbsp;
-  https://www.linkedin.com/in/utkucikmaz
-
 
 ---
 
