@@ -1,6 +1,7 @@
 <div align="center">
+<img src="https://www.utkucikmaz.com/images/tree.png" alt="Logo" width="50"> 
 
-# Utku Cikmaz
+  # utku cikmaz
 
 Web developer working with structure, intention, and time.
 
@@ -55,8 +56,12 @@ Tools change. Principles remain.
 
 If you value thoughtful work and long-term coherence, I’m open to conversation.
 
-- 🌐 https://utkucikmaz.com  
-- 🔗 https://www.linkedin.com/in/utkucikmaz
+- <img src="https://www.utkucikmaz.com/images/tree.png" alt="Logo" width="20" height="20" style="vertical-align: middle;">&nbsp;&nbsp;
+  https://utkucikmaz.com
+
+- <img src="https://www.utkucikmaz.com/svg/linkedin-icon.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;">&nbsp;&nbsp;
+  https://www.linkedin.com/in/utkucikmaz
+
 
 ---
 
