@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.utkucikmaz.com/images/tree.png" alt="Logo" width="50"> 
+<img src="https://www.utkucikmaz.com/images/logo.png" alt="Logo" width="50"> 
 
   # utku cikmaz
 
